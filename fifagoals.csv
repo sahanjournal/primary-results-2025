@@ -1,10 +1,5 @@
-Player,Goals,Games,Goal Average,National Team
-Bukayo Saka,2,1,2.00,England
-Mehdi Taremi,2,1,2.00,Iran
-Enner Valencia,2,1,2.00,Ecuador
-Jude Bellingham,1,1,1.00,England
-Cody Gakpo,1,1,1.00,Holland
-Jack Grealish,1,1,1.00,England
-Davy Klaassen,1,1,1.00,Holland
-Marcus Rashford,1,1,1.00,England
-Raheem Sterling,1,1,1.00,England
+National Team,count
+England,6
+Ecuador,2
+Holland,2
+Iran,2
