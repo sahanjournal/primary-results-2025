@@ -1,27 +1,27 @@
-National Team,count
-Spain,8
-England,6
-France,6
-Iran,4
-Croatia,4
-Argentina,3
-Senegal,3
-Portugal,3
-Holland,3
-Ecuador,3
-Japan,2
-Brazil,2
-Saudi Arabia,2
-Morocco,2
-Poland,2
-Australia,2
-Ghana,2
-Germany,2
-Costa Rica,1
-Denmark,1
-Canada,1
-Qatar,1
-Belgium,1
-Switzerland,1
-USA,1
-Wales,1
+National Team,count,Country,Code,Team
+Spain,8,Spain,:es:,:es:Spain
+England,6,England,:gb-eng:,:gb-eng:England
+France,6,France,:fr:,:fr:France
+Iran,4,Iran,:ir:,:ir:Iran
+Croatia,4,Croatia,:hr:,:hr:Croatia
+Argentina,3,Argentina,:ar:,:ar:Argentina
+Senegal,3,Senegal,:sn:,:sn:Senegal
+Portugal,3,Portugal,:pt:,:pt:Portugal
+Holland,3,Holland,:nl:,:nl:Holland
+Ecuador,3,Ecuador,:ec:,:ec:Ecuador
+Japan,2,Japan,:jp:,:jp:Japan
+Brazil,2,Brazil,:br:,:br:Brazil
+Saudi Arabia,2,Saudi Arabia,:sa:,:sa:Saudi Arabia
+Morocco,2,Morocco,:ma:,:ma:Morocco
+Poland,2,Poland,:pl:,:pl:Poland
+Australia,2,Australia,:au:,:au:Australia
+Ghana,2,Ghana,:gh:,:gh:Ghana
+Germany,2,Germany,:de:,:de:Germany
+Costa Rica,1,Costa Rica,:cr:,:cr:Costa Rica
+Denmark,1,Denmark,:dk:,:dk:Denmark
+Canada,1,Canada,:ca:,:ca:Canada
+Qatar,1,Qatar,:qa:,:qa:Qatar
+Belgium,1,Belgium,:be:,:be:Belgium
+Switzerland,1,Switzerland,:ch:,:ch:Switzerland
+USA,1,USA,:us:,:us:USA
+Wales,1,Wales,:gb-wls:,:gb-wls:Wales
