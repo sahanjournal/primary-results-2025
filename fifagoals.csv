@@ -1,30 +1,30 @@
 National Team,count,Country,Code,Team
 Spain,8,Spain,:es:,:es: Spain
-England,6,England,:gb-eng:,:gb-eng: England
 France,6,France,:fr:,:fr: France
+England,6,England,:gb-eng:,:gb-eng: England
+Holland,5,Holland,:nl:,:nl: Holland
+Senegal,5,Senegal,:sn:,:sn: Senegal
 Portugal,5,Portugal,:pt:,:pt: Portugal
 Ghana,5,Ghana,:gh:,:gh: Ghana
-Holland,4,Holland,:nl:,:nl: Holland
 Iran,4,Iran,:ir:,:ir: Iran
 Croatia,4,Croatia,:hr:,:hr: Croatia
+Ecuador,4,Ecuador,:ec:,:ec: Ecuador
 Serbia,3,Serbia,:rs:,:rs: Serbia
-Senegal,3,Senegal,:sn:,:sn: Senegal
 Argentina,3,Argentina,:ar:,:ar: Argentina
-Ecuador,3,Ecuador,:ec:,:ec: Ecuador
 Cameroon,3,Cameroon,:cm:,:cm: Cameroon
 Brazil,3,Brazil,:br:,:br: Brazil
+Germany,2,Germany,:de:,:de: Germany
 South Korea,2,South Korea,:kr:,:kr: South Korea
 Australia,2,Australia,:au:,:au: Australia
 Japan,2,Japan,:jp:,:jp: Japan
 Morocco,2,Morocco,:ma:,:ma: Morocco
 Poland,2,Poland,:pl:,:pl: Poland
-Germany,2,Germany,:de:,:de: Germany
 Saudi Arabia,2,Saudi Arabia,:sa:,:sa: Saudi Arabia
 USA,1,USA,:us:,:us: USA
 Switzerland,1,Switzerland,:ch:,:ch: Switzerland
 Belgium,1,Belgium,:be:,:be: Belgium
 Qatar,1,Qatar,:qa:,:qa: Qatar
+Denmark,1,Denmark,:dk:,:dk: Denmark
 Canada,1,Canada,:ca:,:ca: Canada
 Costa Rica,1,Costa Rica,:cr:,:cr: Costa Rica
-Denmark,1,Denmark,:dk:,:dk: Denmark
 Wales,1,Wales,:gb-wls:,:gb-wls: Wales
