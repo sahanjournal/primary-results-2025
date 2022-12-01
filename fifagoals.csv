@@ -2,6 +2,7 @@ National Team,count,Country,Code,Team
 Spain,9,Spain,:es:,:es: Spain
 England,9,England,:gb-eng:,:gb-eng: England
 France,6,France,:fr:,:fr: France
+Germany,6,Germany,:de:,:de: Germany
 Argentina,5,Argentina,:ar:,:ar: Argentina
 Senegal,5,Senegal,:sn:,:sn: Senegal
 Portugal,5,Portugal,:pt:,:pt: Portugal
@@ -9,7 +10,6 @@ Holland,5,Holland,:nl:,:nl: Holland
 Ghana,5,Ghana,:gh:,:gh: Ghana
 Morocco,4,Morocco,:ma:,:ma: Morocco
 Japan,4,Japan,:jp:,:jp: Japan
-Germany,4,Germany,:de:,:de: Germany
 Iran,4,Iran,:ir:,:ir: Iran
 Ecuador,4,Ecuador,:ec:,:ec: Ecuador
 Croatia,4,Croatia,:hr:,:hr: Croatia
