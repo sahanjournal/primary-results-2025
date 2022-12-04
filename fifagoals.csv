@@ -1,8 +1,8 @@
 National Team,count,Country,Code,Team
 Spain,9,Spain,:es:,:es: Spain
 England,9,England,:gb-eng:,:gb-eng: England
+France,9,France,:fr:,:fr: France
 Holland,8,Holland,:nl:,:nl: Holland
-France,8,France,:fr:,:fr: France
 Argentina,7,Argentina,:ar:,:ar: Argentina
 Portugal,6,Portugal,:pt:,:pt: Portugal
 Germany,6,Germany,:de:,:de: Germany
@@ -15,15 +15,15 @@ Morocco,4,Morocco,:ma:,:ma: Morocco
 Iran,4,Iran,:ir:,:ir: Iran
 Japan,4,Japan,:jp:,:jp: Japan
 Ecuador,4,Ecuador,:ec:,:ec: Ecuador
-Croatia,4,Croatia,:hr:,:hr: Croatia
 Cameroon,4,Cameroon,:cm:,:cm: Cameroon
-Australia,3,Australia,:au:,:au: Australia
+Croatia,4,Croatia,:hr:,:hr: Croatia
 USA,3,USA,:us:,:us: USA
+Poland,3,Poland,:pl:,:pl: Poland
 Brazil,3,Brazil,:br:,:br: Brazil
 Saudi Arabia,3,Saudi Arabia,:sa:,:sa: Saudi Arabia
+Australia,3,Australia,:au:,:au: Australia
 Uruguay,2,Uruguay,:uy:,:uy: Uruguay
 Costa Rica,2,Costa Rica,:cr:,:cr: Costa Rica
-Poland,2,Poland,:pl:,:pl: Poland
 Mexico,2,Mexico,:mx:,:mx: Mexico
 Canada,1,Canada,:ca:,:ca: Canada
 Qatar,1,Qatar,:qa:,:qa: Qatar
