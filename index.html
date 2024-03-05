@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>St. Paul City Council election live updates</title>
+    <title>presidential primary results progress bar</title>
     <script src="https://cdn.jsdelivr.net/npm/d3@7"></script>
     <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
     <link rel="stylesheet" href="styles.css">
@@ -18,15 +18,17 @@
 <style>
     body {
         font-family: 'Libre Franklin', sans-serif;
-        background-color: #f5f5f5;
         margin: 0;
         padding: 0;
     }
 </style>
 <body>
-    <div id="percentage">Loading...</div>
-  
+    <div id="chart-space" style="width:90vw">
+        <div id="percentage">Loading...</div>
+    </div>
+    <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
   <script>
+    var pymChild = new pym.Child();
     // Function to update the percentage
     function updatePercentage() {
       // Make an AJAX request to get the latest data
@@ -46,6 +48,10 @@
     // Call updatePercentage initially and set interval to update every 5 seconds
     updatePercentage();
     setInterval(updatePercentage, 5000); // Update every 5 seconds
+  </script>
+  <script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
+  <script>
+      var pymChild = new pym.Child();
   </script>
   </body>
 </html>
