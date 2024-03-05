@@ -1,0 +1,24 @@
+MN;;;0100;U.S. Presidential Nominee;;0303;Ron DeSantis;;;R;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0304;Nikki Haley;;;R;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0302;Vivek Ramaswamy;;;R;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0305;Chris Christie;;;R;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0306;Write-In;;;R;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0409;Cenk Uygur;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0405;Marianne Williamson;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0402;Joseph R Biden Jr;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0403;Eban Cambridge;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0408;Gabriel Cornejo;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0407;Frankie Lozada;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0401;Jason Palmer;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0410;Armando "Mando" Perez-Serrato;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0406;Dean Phillips;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0404;Uncommitted;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0411;Write-In;;;DFL;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0604;Edward Forchion;;;LMN;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0602;Krystal Gabel;;;LMN;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0603;Dennis Schuller;;;LMN;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0601;Vermin Supreme;;;LMN;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0606;Write-In;;;LMN;0;4100;0;0.00;0
+MN;;;0100;U.S. Presidential Nominee;;0605;Rudy Reyes;;;LMN;0;4100;0;0.00;0
+
