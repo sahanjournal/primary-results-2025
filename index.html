@@ -14,162 +14,38 @@
   
 
 </head>
+
+<style>
+    body {
+        font-family: 'Libre Franklin', sans-serif;
+        background-color: #f5f5f5;
+        margin: 0;
+        padding: 0;
+    }
+</style>
 <body>
-    <div id="chart-space" style="width:90vw"></div>
-
-    <script src="https://pym.nprapps.org/pym.v1.min.js"></script>
-    <script>
-
-        var pymChild = new pym.Child();
-        // Accessing data
-        d3.json("data/st_paul.json").then(visualizeData);
-    
-
-        var width = 800; // SVG width
-        var height = 400; // SVG height
-        var margin = { top: 80, right: 80, bottom: 30, left: 320 };
-
-        function visualizeData(data) {
-            console.log(data);
-
-            // Group data by Ward using plain JavaScript
-            var officeGroups = {};
-
-            data.forEach(d => {
-                if (!officeGroups[d['Ward']]) {
-                    officeGroups[d['Ward']] = [];
-                }
-                officeGroups[d['Ward']].push(d);
-            });
-
-            // Iterate through each group and create a separate bar chart
-            Object.keys(officeGroups).forEach(officeID => {
-                var officeData = officeGroups[officeID];
-
-                officeData = officeData.sort((a, b) => d3.descending(a.Percentage, b.Percentage));
-
-                var svg = d3.select("#chart-space")
-                    .append("div")
-                    // .style("width", width + "px")
-                    // .style("height", height + "px")
-                    // .attr("viewBox", `0 0 300 600`)
-                    .style("margin", "10px")
-                    .style("background", "#ffffff")
-                    .append("svg")
-                    // .attr("width", width)
-                    // .attr("height", height)
-                    .attr("viewBox", `0 0 800 450`)
-                    .append("g")
-                    .style("font-family", "Libre Franklin")
-                    // .style("font-size", "12px")
-                    // .style("font-weight", "bold")
-                    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-
-                var chartWidth = width - margin.left - margin.right;
-                var chartHeight = height - margin.top - margin.bottom;
-
-                var xScale = d3.scaleLinear()
-                    .domain([0, d3.max(officeData, d => d.Percentage)])
-                    .range([0, chartWidth]);
-
-                var yScale = d3.scaleBand()
-                    .domain(officeData.map(d => d.CandidateName))
-                    .range([0, chartHeight])
-                    .padding(0.2);
-
-                    svg.append("text")
-                    .attr("x", chartWidth / 2)
-                    .attr("y", -margin.top / 2)
-                    .attr("text-anchor", "middle")
-                    .text("St. Paul Council Member Ward " + officeID + " Results")
-                    .style("font-family", "Libre Franklin")
-                    .style("font-size", "24px")
-                    .style("font-weight", "bold");  
-
-                   svg.append("text")
-                   .attr("x", chartWidth / 2)
-                    .attr("y", -margin.top / 5)
-                    .style("text-anchor", "middle")
-                    .text("(First Choice)")
-                    .style("font-family", "Libre Franklin")
-                    .style("font-size", "22px")
-                    .style("font-weight", "bold");  
-               
-                var bars = svg.selectAll("rect")
-                    .data(officeData)
-                    .join("rect")
-                    .attr("y", d => yScale(d.CandidateName))
-                    .attr("x", 0)
-                    .attr("width", d => xScale(d.Percentage))
-                    .attr("height", yScale.bandwidth())
-                    .attr("fill", "#dfbdff");
-                
-
-                     // Adding labels to the bars
-        svg.selectAll("text.percentage-label")
-            .data(officeData)
-            .join("text")
-            .attr("class", "percentage-label")
-            .attr("x", d => xScale(d.Percentage) + 5) // Adjust the 5 for proper positioning
-            .attr("y", d => yScale(d.CandidateName) + yScale.bandwidth() / 2)
-            .attr("dy", "0.35em")
-            .style("font-family", "Libre Franklin")
-            .style("font-size", "20px")
-            .text(d => d.Percentage + "%");
-
-                var xAxis = svg.append("g")
-                    .attr("transform", "translate(0," + chartHeight + ")")
-                    .call(d3.axisBottom(xScale))
-                    .style("font-family", "Libre Franklin")
-                    .style("font-size","20px");
-
-                var yAxis = svg.append("g")
-                    .call(d3.axisLeft(yScale))
-                    .style("font-family", "Libre Franklin")
-                    .style("font-size", "22px")
-                    .style("font-weight", "bold");
-
-                xAxis.select(".domain")
-                    .remove();
-
-                yAxis.select(".domain")
-                    .remove();
-
-                xAxis.selectAll(".tick")
-                    .selectAll("line")
-                    .remove();
-
-                yAxis.selectAll(".tick")
-                    .selectAll("line")
-                    .remove();
-
-                pymChild.sendHeight();
-
-
-               
-            });
-        }
-       
-    </script>
-
-<script type="text/javascript" src="https://pym.nprapps.org/pym.v1.min.js"></script>
-<script>
-	var pymChild = new pym.Child();
-</script>
-
-    <style>
-        .tooltip {
-            fill: black;
-        }
-        /* #chart-space{
-          margin-left:50%;
-          margin-right:50%;
-          display: flex;
-            justify-content: center;
-            flex-direction: column;
-        } */
-
-        
-    </style>
-</body>
+    <div id="percentage">Loading...</div>
+  
+  <script>
+    // Function to update the percentage
+    function updatePercentage() {
+      // Make an AJAX request to get the latest data
+      fetch('data/progress.json')
+        .then(response => response.json())
+        .then(data => {
+          // Calculate the percentage
+          const pct = ((data['Number of Precincts reporting'][0] / data['Total number of precincts voting for the office'][0]) * 100).toFixed(2);
+          // Update the percentage on the page
+          document.getElementById('percentage').innerText = `Percentage of precincts reporting: ${pct}%`;
+        })
+        .catch(error => {
+          console.error('Error fetching data:', error);
+        });
+    }
+  
+    // Call updatePercentage initially and set interval to update every 5 seconds
+    updatePercentage();
+    setInterval(updatePercentage, 5000); // Update every 5 seconds
+  </script>
+  </body>
 </html>
