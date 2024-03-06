@@ -1,24 +1,24 @@
-MN;;;0100;U.S. Presidential Nominee;;0303;Ron DeSantis;;;R;2765;4100;3050;1.20;253363
-MN;;;0100;U.S. Presidential Nominee;;0304;Nikki Haley;;;R;2765;4100;76580;30.23;253363
-MN;;;0100;U.S. Presidential Nominee;;0302;Vivek Ramaswamy;;;R;2765;4100;1125;0.44;253363
-MN;;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;2765;4100;170993;67.49;253363
-MN;;;0100;U.S. Presidential Nominee;;0305;Chris Christie;;;R;2765;4100;1055;0.42;253363
-MN;;;0100;U.S. Presidential Nominee;;0306;Write-In;;;R;2765;4100;560;0.22;253363
-MN;;;0100;U.S. Presidential Nominee;;0409;Cenk Uygur;;;DFL;2765;4100;564;0.28;198740
-MN;;;0100;U.S. Presidential Nominee;;0405;Marianne Williamson;;;DFL;2765;4100;2775;1.40;198740
-MN;;;0100;U.S. Presidential Nominee;;0402;Joseph R Biden Jr;;;DFL;2765;4100;136980;68.92;198740
-MN;;;0100;U.S. Presidential Nominee;;0403;Eban Cambridge;;;DFL;2765;4100;177;0.09;198740
-MN;;;0100;U.S. Presidential Nominee;;0408;Gabriel Cornejo;;;DFL;2765;4100;263;0.13;198740
-MN;;;0100;U.S. Presidential Nominee;;0407;Frankie Lozada;;;DFL;2765;4100;234;0.12;198740
-MN;;;0100;U.S. Presidential Nominee;;0401;Jason Palmer;;;DFL;2765;4100;580;0.29;198740
-MN;;;0100;U.S. Presidential Nominee;;0410;Armando "Mando" Perez-Serrato;;;DFL;2765;4100;301;0.15;198740
-MN;;;0100;U.S. Presidential Nominee;;0406;Dean Phillips;;;DFL;2765;4100;16061;8.08;198740
-MN;;;0100;U.S. Presidential Nominee;;0404;Uncommitted;;;DFL;2765;4100;39169;19.71;198740
-MN;;;0100;U.S. Presidential Nominee;;0411;Write-In;;;DFL;2765;4100;1636;0.82;198740
-MN;;;0100;U.S. Presidential Nominee;;0604;Edward Forchion;;;LMN;2765;4100;129;6.33;2037
-MN;;;0100;U.S. Presidential Nominee;;0602;Krystal Gabel;;;LMN;2765;4100;585;28.72;2037
-MN;;;0100;U.S. Presidential Nominee;;0603;Dennis Schuller;;;LMN;2765;4100;335;16.45;2037
-MN;;;0100;U.S. Presidential Nominee;;0601;Vermin Supreme;;;LMN;2765;4100;305;14.97;2037
-MN;;;0100;U.S. Presidential Nominee;;0606;Write-In;;;LMN;2765;4100;394;19.34;2037
-MN;;;0100;U.S. Presidential Nominee;;0605;Rudy Reyes;;;LMN;2765;4100;289;14.19;2037
+MN;;;0100;U.S. Presidential Nominee;;0303;Ron DeSantis;;;R;3325;4100;3622;1.22;298036
+MN;;;0100;U.S. Presidential Nominee;;0304;Nikki Haley;;;R;3325;4100;88265;29.62;298036
+MN;;;0100;U.S. Presidential Nominee;;0302;Vivek Ramaswamy;;;R;3325;4100;1328;0.45;298036
+MN;;;0100;U.S. Presidential Nominee;;0301;Donald J. Trump;;;R;3325;4100;202747;68.03;298036
+MN;;;0100;U.S. Presidential Nominee;;0305;Chris Christie;;;R;3325;4100;1332;0.45;298036
+MN;;;0100;U.S. Presidential Nominee;;0306;Write-In;;;R;3325;4100;742;0.25;298036
+MN;;;0100;U.S. Presidential Nominee;;0409;Cenk Uygur;;;DFL;3325;4100;778;0.34;228938
+MN;;;0100;U.S. Presidential Nominee;;0405;Marianne Williamson;;;DFL;3325;4100;3283;1.43;228938
+MN;;;0100;U.S. Presidential Nominee;;0402;Joseph R Biden Jr;;;DFL;3325;4100;158457;69.21;228938
+MN;;;0100;U.S. Presidential Nominee;;0403;Eban Cambridge;;;DFL;3325;4100;253;0.11;228938
+MN;;;0100;U.S. Presidential Nominee;;0408;Gabriel Cornejo;;;DFL;3325;4100;427;0.19;228938
+MN;;;0100;U.S. Presidential Nominee;;0407;Frankie Lozada;;;DFL;3325;4100;377;0.16;228938
+MN;;;0100;U.S. Presidential Nominee;;0401;Jason Palmer;;;DFL;3325;4100;708;0.31;228938
+MN;;;0100;U.S. Presidential Nominee;;0410;Armando "Mando" Perez-Serrato;;;DFL;3325;4100;494;0.22;228938
+MN;;;0100;U.S. Presidential Nominee;;0406;Dean Phillips;;;DFL;3325;4100;17967;7.85;228938
+MN;;;0100;U.S. Presidential Nominee;;0404;Uncommitted;;;DFL;3325;4100;44151;19.29;228938
+MN;;;0100;U.S. Presidential Nominee;;0411;Write-In;;;DFL;3325;4100;2043;0.89;228938
+MN;;;0100;U.S. Presidential Nominee;;0604;Edward Forchion;;;LMN;3325;4100;156;6.29;2482
+MN;;;0100;U.S. Presidential Nominee;;0602;Krystal Gabel;;;LMN;3325;4100;687;27.68;2482
+MN;;;0100;U.S. Presidential Nominee;;0603;Dennis Schuller;;;LMN;3325;4100;409;16.48;2482
+MN;;;0100;U.S. Presidential Nominee;;0601;Vermin Supreme;;;LMN;3325;4100;348;14.02;2482
+MN;;;0100;U.S. Presidential Nominee;;0606;Write-In;;;LMN;3325;4100;547;22.04;2482
+MN;;;0100;U.S. Presidential Nominee;;0605;Rudy Reyes;;;LMN;3325;4100;335;13.50;2482
 
