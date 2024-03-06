@@ -1,24 +1,24 @@
 State,County ID (if applicable),Precinct name (if applicable),Office ID,Office Name,District*,Candidate Order Code,Candidate,Suffix (not used),Incumbent Code (not used),Party Abbreviation,Number of Precincts reporting,Total number of precincts voting for the office,Votes,Percentage,Total number of votes for Office in area
-MN,,,100,U.S. Presidential Nominee,,303,Ron DeSantis,,,R,3801,4100,3932,1.21,324674
-MN,,,100,U.S. Presidential Nominee,,304,Nikki Haley,,,R,3801,4100,94223,29.02,324674
-MN,,,100,U.S. Presidential Nominee,,302,Vivek Ramaswamy,,,R,3801,4100,1442,0.44,324674
-MN,,,100,U.S. Presidential Nominee,,301,Donald J. Trump,,,R,3801,4100,222967,68.67,324674
-MN,,,100,U.S. Presidential Nominee,,305,Chris Christie,,,R,3801,4100,1388,0.43,324674
-MN,,,100,U.S. Presidential Nominee,,306,Write-in,,,R,3801,4100,722,0.22,324674
-MN,,,100,U.S. Presidential Nominee,,404,Uncommitted,,,DFL,3801,4100,45354,18.92,239685
-MN,,,100,U.S. Presidential Nominee,,411,Write-in,,,DFL,3801,4100,2005,0.84,239685
-MN,,,100,U.S. Presidential Nominee,,402,Joseph R Biden Jr,,,DFL,3801,4100,167444,69.86,239685
-MN,,,100,U.S. Presidential Nominee,,403,Eban Cambridge,,,DFL,3801,4100,258,0.11,239685
-MN,,,100,U.S. Presidential Nominee,,408,Gabriel Cornejo,,,DFL,3801,4100,347,0.14,239685
-MN,,,100,U.S. Presidential Nominee,,407,Frankie Lozada,,,DFL,3801,4100,321,0.13,239685
-MN,,,100,U.S. Presidential Nominee,,401,Jason Palmer,,,DFL,3801,4100,763,0.32,239685
-MN,,,100,U.S. Presidential Nominee,,410,"Armando ""Mando"" Perez-Serrato",,,DFL,3801,4100,391,0.16,239685
-MN,,,100,U.S. Presidential Nominee,,406,Dean Phillips,,,DFL,3801,4100,18684,7.8,239685
-MN,,,100,U.S. Presidential Nominee,,409,Cenk Uygur,,,DFL,3801,4100,703,0.29,239685
-MN,,,100,U.S. Presidential Nominee,,405,Marianne Williamson,,,DFL,3801,4100,3415,1.42,239685
-MN,,,100,U.S. Presidential Nominee,,604,Edward Forchion,,,LMN,3801,4100,185,6.94,2666
-MN,,,100,U.S. Presidential Nominee,,602,Krystal Gabel,,,LMN,3801,4100,747,28.02,2666
-MN,,,100,U.S. Presidential Nominee,,603,Dennis Schuller,,,LMN,3801,4100,460,17.25,2666
-MN,,,100,U.S. Presidential Nominee,,601,Vermin Supreme,,,LMN,3801,4100,386,14.48,2666
-MN,,,100,U.S. Presidential Nominee,,606,Write-in,,,LMN,3801,4100,512,19.2,2666
-MN,,,100,U.S. Presidential Nominee,,605,Rudy Reyes,,,LMN,3801,4100,376,14.1,2666
+MN,,,100,U.S. Presidential Nominee,,303,Ron DeSantis,,,R,3922,4100,3992,1.21,329251
+MN,,,100,U.S. Presidential Nominee,,304,Nikki Haley,,,R,3922,4100,95099,28.88,329251
+MN,,,100,U.S. Presidential Nominee,,302,Vivek Ramaswamy,,,R,3922,4100,1452,0.44,329251
+MN,,,100,U.S. Presidential Nominee,,301,Donald J. Trump,,,R,3922,4100,226576,68.82,329251
+MN,,,100,U.S. Presidential Nominee,,305,Chris Christie,,,R,3922,4100,1404,0.43,329251
+MN,,,100,U.S. Presidential Nominee,,306,Write-in,,,R,3922,4100,728,0.22,329251
+MN,,,100,U.S. Presidential Nominee,,409,Cenk Uygur,,,DFL,3922,4100,708,0.29,241094
+MN,,,100,U.S. Presidential Nominee,,405,Marianne Williamson,,,DFL,3922,4100,3423,1.42,241094
+MN,,,100,U.S. Presidential Nominee,,402,Joseph R Biden Jr,,,DFL,3922,4100,168603,69.93,241094
+MN,,,100,U.S. Presidential Nominee,,403,Eban Cambridge,,,DFL,3922,4100,262,0.11,241094
+MN,,,100,U.S. Presidential Nominee,,408,Gabriel Cornejo,,,DFL,3922,4100,347,0.14,241094
+MN,,,100,U.S. Presidential Nominee,,407,Frankie Lozada,,,DFL,3922,4100,322,0.13,241094
+MN,,,100,U.S. Presidential Nominee,,401,Jason Palmer,,,DFL,3922,4100,773,0.32,241094
+MN,,,100,U.S. Presidential Nominee,,410,"Armando ""Mando"" Perez-Serrato",,,DFL,3922,4100,393,0.16,241094
+MN,,,100,U.S. Presidential Nominee,,406,Dean Phillips,,,DFL,3922,4100,18776,7.79,241094
+MN,,,100,U.S. Presidential Nominee,,404,Uncommitted,,,DFL,3922,4100,45476,18.86,241094
+MN,,,100,U.S. Presidential Nominee,,411,Write-in,,,DFL,3922,4100,2011,0.83,241094
+MN,,,100,U.S. Presidential Nominee,,604,Edward Forchion,,,LMN,3922,4100,186,6.91,2692
+MN,,,100,U.S. Presidential Nominee,,602,Krystal Gabel,,,LMN,3922,4100,759,28.19,2692
+MN,,,100,U.S. Presidential Nominee,,603,Dennis Schuller,,,LMN,3922,4100,466,17.31,2692
+MN,,,100,U.S. Presidential Nominee,,601,Vermin Supreme,,,LMN,3922,4100,390,14.49,2692
+MN,,,100,U.S. Presidential Nominee,,606,Write-in,,,LMN,3922,4100,513,19.06,2692
+MN,,,100,U.S. Presidential Nominee,,605,Rudy Reyes,,,LMN,3922,4100,378,14.04,2692
