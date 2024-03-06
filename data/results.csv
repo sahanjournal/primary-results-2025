@@ -1,24 +1,24 @@
 State,County ID (if applicable),Precinct name (if applicable),Office ID,Office Name,District*,Candidate Order Code,Candidate,Suffix (not used),Incumbent Code (not used),Party Abbreviation,Number of Precincts reporting,Total number of precincts voting for the office,Votes,Percentage,Total number of votes for Office in area
-MN,,,100,U.S. Presidential Nominee,,303,Ron DeSantis,,,R,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,304,Nikki Haley,,,R,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,302,Vivek Ramaswamy,,,R,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,301,Donald J. Trump,,,R,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,305,Chris Christie,,,R,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,306,Write-in,,,R,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,409,Cenk Uygur,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,405,Marianne Williamson,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,402,Joseph R Biden Jr,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,403,Eban Cambridge,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,408,Gabriel Cornejo,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,407,Frankie Lozada,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,401,Jason Palmer,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,410,"Armando ""Mando"" Perez-Serrato",,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,406,Dean Phillips,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,404,Uncommitted,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,411,Write-in,,,DFL,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,604,Edward Forchion,,,LMN,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,602,Krystal Gabel,,,LMN,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,603,Dennis Schuller,,,LMN,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,601,Vermin Supreme,,,LMN,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,606,Write-in,,,LMN,0,4100,0,0.0,0
-MN,,,100,U.S. Presidential Nominee,,605,Rudy Reyes,,,LMN,0,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,303,Ron DeSantis,,,R,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,304,Nikki Haley,,,R,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,302,Vivek Ramaswamy,,,R,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,301,Donald J. Trump,,,R,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,305,Chris Christie,,,R,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,306,Write-in,,,R,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,409,Cenk Uygur,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,405,Marianne Williamson,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,402,Joseph R Biden Jr,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,403,Eban Cambridge,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,408,Gabriel Cornejo,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,407,Frankie Lozada,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,401,Jason Palmer,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,410,"Armando ""Mando"" Perez-Serrato",,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,406,Dean Phillips,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,404,Uncommitted,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,411,Write-in,,,DFL,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,604,Edward Forchion,,,LMN,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,602,Krystal Gabel,,,LMN,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,603,Dennis Schuller,,,LMN,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,601,Vermin Supreme,,,LMN,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,606,Write-in,,,LMN,8,4100,0,0.0,0
+MN,,,100,U.S. Presidential Nominee,,605,Rudy Reyes,,,LMN,8,4100,0,0.0,0
