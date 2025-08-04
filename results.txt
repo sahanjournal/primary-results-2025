@@ -1,27 +1,27 @@
-MN;;;2801;CITY QUESTION 1 (Clarkfield);11656;9001;YES;;;NP;1;1;708;69.62;1017
-MN;;;2801;CITY QUESTION 1 (Clarkfield);11656;9002;NO;;;NP;1;1;309;30.38;1017
-MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9001;Jordon Johnson;;;NP;34;34;19762;23.21;85135
-MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9002;Terese Tomanek;;;NP;34;34;17738;20.84;85135
-MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9003;Zachary Davis Moder;;;NP;34;34;15046;17.67;85135
-MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9004;Derek Medved;;;NP;34;34;16874;19.82;85135
-MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9005;Asher Estrin-Haire;;;NP;34;34;15715;18.46;85135
-MN;;;1022;Council Member District 2 (Duluth);17000;9001;Diane Desotelle;;;NP;6;6;2894;34.82;8312
-MN;;;1022;Council Member District 2 (Duluth);17000;9002;Christopher Adatte;;;NP;6;6;2733;32.88;8312
-MN;;;1022;Council Member District 2 (Duluth);17000;9003;Pierre Tournier;;;NP;6;6;2685;32.30;8312
-MN;;;2801;CITY QUESTION 1 (International Falls);31040;9001;YES;;;NP;3;3;1711;46.51;3679
-MN;;;2801;CITY QUESTION 1 (International Falls);31040;9002;NO;;;NP;3;3;1968;53.49;3679
-MN;;;1001;Special Election for Mayor (Isanti);31328;9001;Jeff Johnson;;;NP;2;2;843;24.39;3456
-MN;;;1001;Special Election for Mayor (Isanti);31328;9002;Luke Merrill;;;NP;2;2;1004;29.05;3456
-MN;;;1001;Special Election for Mayor (Isanti);31328;9099;WRITE-IN;;;NP;2;2;1609;46.56;3456
-MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9001;Cole Hanson;;;NP;13;13;8325;22.73;36627
-MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9002;Chauntyll Allen;;;NP;13;13;7446;20.33;36627
-MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9003;Molly Coleman;;;NP;13;13;7857;21.45;36627
-MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9004;Carolyn Will;;;NP;13;13;6647;18.15;36627
-MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9099;WRITE-IN;;;NP;13;13;6352;17.34;36627
-MN;;;1012;Special Election for Council Member At Large (Two Harbors);65956;9001;Laura Osbakken Goutermont;;;NP;4;4;2059;36.85;5588
-MN;;;1012;Special Election for Council Member At Large (Two Harbors);65956;9002;Donna Heil;;;NP;4;4;1744;31.21;5588
-MN;;;1012;Special Election for Council Member At Large (Two Harbors);65956;9099;WRITE-IN;;;NP;4;4;1785;31.94;5588
-MN;;;1001;Mayor (White Bear Lake);69970;9001;Mary Nicklawske;;;NP;6;6;1745;22.56;7735
-MN;;;1001;Mayor (White Bear Lake);69970;9002;Matthew Schoenthaler;;;NP;6;6;3324;42.97;7735
-MN;;;1001;Mayor (White Bear Lake);69970;9003;Stephen Laliberte;;;NP;6;6;2666;34.47;7735
+MN;;;2801;CITY QUESTION 1 (Clarkfield);11656;9001;YES;;;NP;0;1;0;0.00;0
+MN;;;2801;CITY QUESTION 1 (Clarkfield);11656;9002;NO;;;NP;0;1;0;0.00;0
+MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9001;Jordon Johnson;;;NP;0;34;0;0.00;0
+MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9002;Terese Tomanek;;;NP;0;34;0;0.00;0
+MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9003;Zachary Davis Moder;;;NP;0;34;0;0.00;0
+MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9004;Derek Medved;;;NP;0;34;0;0.00;0
+MN;;;1010;Council Member At Large (Duluth) (Elect 2);17000;9005;Asher Estrin-Haire;;;NP;0;34;0;0.00;0
+MN;;;1022;Council Member District 2 (Duluth);17000;9001;Diane Desotelle;;;NP;0;6;0;0.00;0
+MN;;;1022;Council Member District 2 (Duluth);17000;9002;Christopher Adatte;;;NP;0;6;0;0.00;0
+MN;;;1022;Council Member District 2 (Duluth);17000;9003;Pierre Tournier;;;NP;0;6;0;0.00;0
+MN;;;2801;CITY QUESTION 1 (International Falls);31040;9001;YES;;;NP;0;3;0;0.00;0
+MN;;;2801;CITY QUESTION 1 (International Falls);31040;9002;NO;;;NP;0;3;0;0.00;0
+MN;;;1001;Special Election for Mayor (Isanti);31328;9001;Jeff Johnson;;;NP;0;2;0;0.00;0
+MN;;;1001;Special Election for Mayor (Isanti);31328;9002;Luke Merrill;;;NP;0;2;0;0.00;0
+MN;;;1001;Special Election for Mayor (Isanti);31328;9099;WRITE-IN;;;NP;0;2;0;0.00;0
+MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9001;Cole Hanson;;;NP;0;13;0;0.00;0
+MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9002;Chauntyll Allen;;;NP;0;13;0;0.00;0
+MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9003;Molly Coleman;;;NP;0;13;0;0.00;0
+MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9004;Carolyn Will;;;NP;0;13;0;0.00;0
+MN;;;2131;Special Election for Council Member Ward 4 First Choice (St. Paul);58000;9099;WRITE-IN;;;NP;0;13;0;0.00;0
+MN;;;1012;Special Election for Council Member At Large (Two Harbors);65956;9001;Laura Osbakken Goutermont;;;NP;0;4;0;0.00;0
+MN;;;1012;Special Election for Council Member At Large (Two Harbors);65956;9002;Donna Heil;;;NP;0;4;0;0.00;0
+MN;;;1012;Special Election for Council Member At Large (Two Harbors);65956;9099;WRITE-IN;;;NP;0;4;0;0.00;0
+MN;;;1001;Mayor (White Bear Lake);69970;9001;Mary Nicklawske;;;NP;0;6;0;0.00;0
+MN;;;1001;Mayor (White Bear Lake);69970;9002;Matthew Schoenthaler;;;NP;0;6;0;0.00;0
+MN;;;1001;Mayor (White Bear Lake);69970;9003;Stephen Laliberte;;;NP;0;6;0;0.00;0
 
