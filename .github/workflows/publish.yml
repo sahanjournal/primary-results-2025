@@ -1,8 +1,8 @@
-name: publish
+name: automate-publish
 on:
   workflow_dispatch:
   schedule:
-    - cron: '* * * * *'
+    - cron: '*/10 * * * *'
   push:
 jobs:
   publish:
@@ -17,11 +17,11 @@ jobs:
     - name: Install all necessary packages
       run: pip install jupyter lxml pandas requests beautifulsoup4
     - name: Run the scraping script
-      run: jupyter nbconvert --to notebook --execute "presidential-election-2024.ipynb" --stdout
+      run: jupyter nbconvert --to notebook --execute "scraping.ipynb" --stdout
     - name: Commit and push any changes
       run: |-
         git config user.name "Automated"
-        git config user.email "actions@users.noreply.github.com"
+        git config user.email "actions@cynthiatudata.noreply.github.com"
         git add -A
         timestamp=$(date -u)
         git commit -m "Latest data: ${timestamp}" || exit 0
