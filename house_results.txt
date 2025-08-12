@@ -1,0 +1,5 @@
+MN;;;0255;State Representative District 34B;34B;0301;Ruth Bittner;;;R;0;14;0;0.00;0
+MN;;;0255;State Representative District 34B;34B;0401;Erickson Saye;;;DFL;0;14;0;0.00;0
+MN;;;0255;State Representative District 34B;34B;0402;Xp Lee;;;DFL;0;14;0;0.00;0
+MN;;;0255;State Representative District 34B;34B;0403;Christian Eriksen;;;DFL;0;14;0;0.00;0
+
