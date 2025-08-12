@@ -2,7 +2,7 @@ name: automate-publish
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/60 * * * *'
+    - cron: '*/15 * * * *'
   push:
 jobs:
   publish:
